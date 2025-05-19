@@ -16,11 +16,11 @@ How to Install
 
 git clone https://github.com/mkdir-blackhat/pentbox-1.8.git
 
-cd pentbox
+cd pentbox-1.8
 
-tar -zxvf pentbox.tar.gz
+tar -zxvf pentbox-1.8-master.zip
 
-cd pentbox
+cd pentbox-1.8-master
 
 ./pentbox.rb
 
