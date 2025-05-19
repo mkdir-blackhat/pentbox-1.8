@@ -14,7 +14,7 @@ https://www.kalilinux.in/2019/05/honeypot.html
 How to Install
 -----------------
 
-git clone https://github.com/technicaldada/pentbox
+git clone https://github.com/mkdir-blackhat/pentbox-1.8.git
 
 cd pentbox
 
